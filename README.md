@@ -1,4 +1,4 @@
-# @nuxtjs/tailwindcssモジュールをしようしたNuxt3×Tailwind3の構築
+# @nuxtjs/tailwindcssモジュールを使用したNuxt3×Tailwind3の構築
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
